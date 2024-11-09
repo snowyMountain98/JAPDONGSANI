@@ -20,7 +20,7 @@ chrome_options.add_experimental_option("detach", True)
 driver = webdriver.Chrome(options=chrome_options)
 driver.get("https://xn--2e0b040a4xj.com/reservation?branch=4&theme=12&date=2024-11-14#list") # 날짜 수정
 
-# 웹페이지가 로드될 때까지 2초를 대기
+# 웹페이지가 로드될 때까지 최대 5초를 대기
 driver.implicitly_wait(5)  
 
 # 시간 선택
