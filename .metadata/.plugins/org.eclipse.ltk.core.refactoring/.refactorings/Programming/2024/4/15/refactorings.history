@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;attT&apos; in &apos;Solution.solution(...)&apos; to &apos;attackTime&apos;&#x0A;- Original project: &apos;Programming&apos;&#x0A;- Original element: &apos;Solution.solution(int[], int, int[][]).attT&apos;&#x0A;- Renamed element: &apos;attT&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;attT&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Solution.java[Solution~solution~\[I~I~\[\[I@attT!562!618!568!571!\[I!0!false" name="attackTime" references="true" stamp="1713020743708" version="1.0"/>
+</session>
